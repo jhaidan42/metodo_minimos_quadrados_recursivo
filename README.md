@@ -1,0 +1,3 @@
+Este projeto apresenta um aplicação do método dos mínimos quadrados recursivo no Simulink. O objetivo do trabalho é implementar e simular um estimador RLS no Simulink com um sistema que apre-senta novos pontos a cada instante de tempo.<br>
+O arquivo ```AA2.slx``` deve ser executado no Simulink. O arquivo ```rlsaa2.m``` contém os códigos em matlab utilizados no modelo do arquivo ```AA2sfunc.slx```, que também deve ser executado no Simulink.<br>
+O [artigo](https://github.com/jhaidan42/metodo_minimos_quadrados_recursivo/files/10108406/Atv_Ass_2_Jhaidan.pdf) produzido apresenta o procedimento realizado, os resultados e as conclusões do estudo.
